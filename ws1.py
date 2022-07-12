@@ -1,5 +1,4 @@
 import csv
-from email.policy import strict
 import requests
 from bs4 import BeautifulSoup
 
